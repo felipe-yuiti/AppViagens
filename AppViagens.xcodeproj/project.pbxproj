@@ -103,8 +103,8 @@
 		B969F98227F7EF5F009AC333 /* Header */ = {
 			isa = PBXGroup;
 			children = (
-				B96E0CAD27F4A2850071FA64 /* HomeTableViewHeader.swift */,
 				B96E0CAB27F4A0400071FA64 /* HomeTableViewHeader.xib */,
+				B96E0CAD27F4A2850071FA64 /* HomeTableViewHeader.swift */,
 			);
 			path = Header;
 			sourceTree = "<group>";
@@ -197,8 +197,8 @@
 		B988193D27FC91E80012C488 /* DetalheViewController */ = {
 			isa = PBXGroup;
 			children = (
-				B988193E27FC92270012C488 /* DetalheViewController.swift */,
 				B988193F27FC92270012C488 /* DetalheViewController.xib */,
+				B988193E27FC92270012C488 /* DetalheViewController.swift */,
 			);
 			path = DetalheViewController;
 			sourceTree = "<group>";
